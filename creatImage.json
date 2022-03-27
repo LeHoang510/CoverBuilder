@@ -1,0 +1,64 @@
+{
+  "Couleur flèche claire": [
+    157,
+    180,
+    200
+  ],
+  "Couleur compl. 1": [
+    0,
+    68,
+    148
+  ],
+  "Couleur compl. 2": [
+    255,
+    255,
+    255
+  ],
+  "Couleur compl. 3": [
+    226,
+    0,
+    26
+  ],
+  "Couleur compl. 4": [
+    168,
+    193,
+    208
+  ],
+  "Image origine": "./Picture/imageSaintLo1.jpg",
+  "Image resultat": "./Resultat/imageResultat.jpg",
+  "Image incrustation gauche": "./Picture/blason.jpg",
+  "Image incrustation droite": "./Picture/blason.jpg",
+  "Couleur flèche":[32,177,82],
+  "Epaisseur flèche":240,
+  "Position flèche":50,
+  "Marge": 20,
+  "Dossier origine": "Picture",
+  "Image incrustation": [
+    "EvreuxDragons.png",
+    "CaenCaserneHamelin2b.jpg",
+    "Nevers2Fi22b.jpg",
+    "imageDinan.jpg",
+    "imageLeMans4.jpg",
+    "imageSaintLo2.jpg",
+    "CampGarriguesMassillan60.jpg",
+    "BeauvaisCaserneWatrin18Fi89.jpg",
+    "frad57_j2895_25pc_rec.jpg",
+    "Paris_11Fi2019.png"
+  ],
+  "Dossier resultat": "Resultat",
+  "Type resultat": ".png",
+  "Taille bordure": 250,
+  "Image numero deux": "./Picture/2_v4.bmp",
+  "Couleur de deux": [
+    [25,85,147],
+    [168,193,208],
+    [222,4,3],
+    [50,204,254],
+    [255,165,0],
+    [64,153,38],
+    [43,131,192],
+    [118,79,40],
+    [38,81,212],
+    [201,186,3]
+  ]
+}
