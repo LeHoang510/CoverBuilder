@@ -43,7 +43,11 @@
     "CampGarriguesMassillan60.jpg",
     "BeauvaisCaserneWatrin18Fi89.jpg",
     "frad57_j2895_25pc_rec.jpg",
-    "Paris_11Fi2019.png"
+    "Paris_11Fi2019.png",
+    "Aire1725vr.jpg",
+    "carcassonne.jpg",
+    "Givet.jpg",
+    "SaintMalo850.jpg"
   ],
   "Dossier resultat": "Resultat",
   "Type resultat": ".png",
@@ -59,6 +63,10 @@
     [43,131,192],
     [118,79,40],
     [38,81,212],
-    [201,186,3]
+    [201,186,3],
+    [222,4,3],
+    [163,47,58],
+    [47,90,221],
+    [0,254,103]
   ]
 }
